@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Cake base -->
+  <rect x="8" y="34" width="48" height="22" rx="4" fill="#f9a8d4"/>
+  <!-- Frosting drips -->
+  <path d="M8 34 Q16 28 24 34 Q32 28 40 34 Q48 28 56 34" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <!-- Candles -->
+  <rect x="20" y="20" width="6" height="14" rx="2" fill="#fde68a"/>
+  <rect x="38" y="20" width="6" height="14" rx="2" fill="#a5f3fc"/>
+  <!-- Flames -->
+  <ellipse cx="23" cy="18" rx="3" ry="4" fill="#fb923c"/>
+  <ellipse cx="41" cy="18" rx="3" ry="4" fill="#fb923c"/>
+  <ellipse cx="23" cy="17" rx="1.5" ry="2.5" fill="#fef08a"/>
+  <ellipse cx="41" cy="17" rx="1.5" ry="2.5" fill="#fef08a"/>
+</svg>
